@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'mobile-bg': "url('/images/home.jpg')", // Use absolute path from the public directory
+        'mobile-bg': "url('/images/home3.jpg')", // Use absolute path from the public directory
         'desktop-bg': "url('/images/home1.jpg')", // Same here
       },
     },

@@ -74,7 +74,7 @@ function App() {
 
   return (
     <div className="App">
-      <div
+     <div
         className="flex justify-center items-center h-screen bg-mobile-bg sm:bg-desktop-bg bg-cover bg-center"
       >
         {/* Navbar */}

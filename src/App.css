@@ -1,0 +1,42 @@
+.mobile-bg {
+  background-image: url('./assets/home3.jpeg');
+  background-position: center;
+  background-size: cover;
+}
+
+/* Custom background for desktop view */
+@media (min-width: 640px) {
+  .desktop-bg {
+    background-image: url('/path/to/desktop-background.jpg');
+    background-position: center;
+    background-size: cover;
+  }
+}
+
+.name{
+  font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', 'serif';
+}
+.name2{
+  font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', 'serif';
+  color:whitesmoke; 
+  
+}
+.name3{
+  
+  color: #000000fc;
+  background-color: rgba(191, 191, 192, 0.243);
+}
+
+/* Safari specific styles */
+/* Safari-specific fix */
+@supports (-webkit-touch-callout: none) {
+  .webcam-container video {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+}
+
+.foot{
+  font-family:monospace;
+}

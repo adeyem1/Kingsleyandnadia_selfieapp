@@ -8,7 +8,7 @@ export default {
     extend: {
       backgroundImage: {
         'mobile-bg': "url('/images/home3.jpg')", // Use absolute path from the public directory
-        'desktop-bg': "url('/images/home2.jpg')", // Same here
+        'desktop-bg': "url('/images/home1.jpg')", // Same here
       },
     },
   },

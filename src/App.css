@@ -1,10 +1,10 @@
 .bg-mobile-bg {
-  background-image: url('/images/mobile-bg.jpg');
+  background-image: url('/images/home3.JPG');
 }
 
 @media (min-width: 640px) {
   .bg-mobile-bg {
-    background-image: url('/images/desktop-bg.jpg');
+    background-image: url('/images/home2.JPG');
   }
 }
 

@@ -4,7 +4,7 @@
 
 @media (min-width: 640px) {
   .bg-mobile-bg {
-    background-image: url('/images/home2.JPG');
+    background-image: url('/images/home3.JPG');
   }
 }
 
@@ -12,7 +12,7 @@
 /* Custom background for desktop view */
 @media (min-width: 640px) {
   .desktop-bg {
-    background-image: url('/path/to/desktop-background.jpg');
+    background-image: url('/images/home1.jpg');
     background-position: center;
     background-size: cover;
   }
